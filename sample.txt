@@ -1,2 +1,3 @@
 サルでもわかるGitコマンド
 add monkey tutorial step2
+commit index recording
