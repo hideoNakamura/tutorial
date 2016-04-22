@@ -7,3 +7,5 @@ pull remoteRepository get
 ‚±‚±‚ğ‚±[‚±[‚±[
 
 update
+update2
+update3
